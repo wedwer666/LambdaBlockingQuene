@@ -9,4 +9,4 @@ https://en.wikipedia.org/wiki/Producer%E2%80%93consumer_problem
 *  **2 thread:  Consumer receives Lambda**
 *  **Compare the speed ( wait(), notify())**
 
-* **This Exercise was done for Endava Course , Technical Univerisity of Moldova**
+ **This Exercise was done for Endava Course , Technical Univerisity of Moldova**
